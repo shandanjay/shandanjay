@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 # Full tech stack
   ## [Golang](http://golang.org/) – Languages
   ## [Gin Gonic](https://gin-gonic.com/) – Frameworks (Full Stack)
@@ -13,7 +13,7 @@
 
 # OS
   ## - [OpenSUSE Leap 15.5](http://www.opensuse.org/) – Where all fun stuff happenning
-<!--
+ 
 **shandanjay/shandanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
